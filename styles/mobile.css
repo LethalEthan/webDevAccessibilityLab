@@ -64,3 +64,11 @@ footer {
   text-align: center;
   font-style: italic;
 }
+
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: #c1c1c7;
+}

@@ -78,3 +78,11 @@ tr:nth-child(odd) {
   background-color: #ccc;
 }
 /* Form Styling Needs Adding */
+
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: #c1c1c7;
+}
